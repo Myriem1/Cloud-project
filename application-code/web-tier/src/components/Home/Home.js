@@ -1,6 +1,6 @@
 
     import React, {Component} from 'react';
-    import architecture from '../../assets/3TierArch.png'
+    import architecture from '../../assets/3TierArch1.png'
 
     class Home extends Component {
         render () {
